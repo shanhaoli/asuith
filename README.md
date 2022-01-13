@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋 
+
+- 👨🏻‍💻 This is Leo. A. Suith. 
+- ❤️ Interest: I am into 💻, ⚽, 🕹️, 📷 and many more. 
+- 📫 How to reach me: 📧 me if it's serious, otherwise find me on [twitter](https://twitter.com/leosuith) or [telegram](https://t.me/asuith).
+- ⚡ Fun fact: 50% of my jokes are bad, or, you can say that they are on me.
+- 📜 Something to see next: [Yet Another Suith's Blog (in Mandarin)](https://blog.asuith.com/) .
+
+
 
 <!--
 **asuith/asuith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
